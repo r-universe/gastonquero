@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "clusterhap"]
-	path = clusterhap
-	url = https://github.com/cran/clusterhap
 [submodule "haplotyper"]
 	path = haplotyper
 	url = https://github.com/cran/haplotyper
